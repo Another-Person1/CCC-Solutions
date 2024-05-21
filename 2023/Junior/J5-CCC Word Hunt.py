@@ -1,3 +1,4 @@
+# Note: This is a partial solution
 word = input("")
 r = int(input(""))
 c = int(input(""))
