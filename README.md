@@ -1,3 +1,3 @@
 # CCC Solutions
 
-Solutions for various problems in the Canadian Computing Contest.
+Unofficial solutions for various problems in the Canadian Computing Contest.
